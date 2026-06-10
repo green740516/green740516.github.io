@@ -1,0 +1,6 @@
+{
+  "name": "Personal Homepage",
+  "description": "A stunning, highly interactive personal homepage and portfolio featuring dynamic personalization, a live guestbook, and animated skill showcases.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
